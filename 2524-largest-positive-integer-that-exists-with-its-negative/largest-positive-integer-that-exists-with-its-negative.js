@@ -3,9 +3,7 @@
  * @return {number}
  */
 var findMaxK = function(nums) {
-    nums.sort(function(a,b){
-        return a-b;
-    })
+  
     let max=-1;
 
     for(let a=0;a<=nums.length-1;a++){
