@@ -27,14 +27,7 @@
 // };
 
 var countDistinctIntegers = function(nums) {
-    let n = nums.length;
-    let obj = {}
-    for(var x of nums)
-        obj[+x] = 1;
-    for(let j=0; j<n; j++)
-        {
-            let num = +(nums[j].toString().split("").reverse().join(""))
-            obj[num] =1
-        }
-    return Object.keys(obj).length
+    let arr = [...nums]
+    nums.map((x)=> arr.push(parseInt(x.toString().split("").reverse().join(""))))
+    return [...new Set(arr)].length
 };
