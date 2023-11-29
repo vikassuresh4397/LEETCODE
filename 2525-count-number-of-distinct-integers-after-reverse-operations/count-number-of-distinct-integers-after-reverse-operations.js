@@ -9,8 +9,8 @@ var countDistinctIntegers = function(nums) {
 let obj={};
 
 for(let a=0;a<=nums.length-1;a++){
-    let x=nums[a].toString().split('').reverse().join('');
-    x=parseInt(x);
+    let x=+(nums[a].toString().split('').reverse().join(''));
+  
    
     obj[nums[a]]=1;
     obj[x]=1;
