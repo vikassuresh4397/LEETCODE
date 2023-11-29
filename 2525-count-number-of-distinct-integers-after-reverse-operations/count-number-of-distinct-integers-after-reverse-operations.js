@@ -6,7 +6,7 @@ var countDistinctIntegers = function(nums) {
     
 
 
-let count=0,obj={};
+let obj={};
 
 for(let a=0;a<=nums.length-1;a++){
     let x=nums[a].toString().split('').reverse().join('');
@@ -19,11 +19,9 @@ for(let a=0;a<=nums.length-1;a++){
 
 
 
-for(let key in obj){
-    count++
-}
 
 
 
-return count
+
+return Object.keys(obj).length
 };
