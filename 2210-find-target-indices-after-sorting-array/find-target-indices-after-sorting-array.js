@@ -14,9 +14,6 @@ var targetIndices = function(nums, target) {
            arr.push(a)
         }
 
-        if(nums[a]>target){
-            return arr
-        }
     }
 
     return arr
