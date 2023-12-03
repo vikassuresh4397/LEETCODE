@@ -5,13 +5,14 @@
  */
 var findWordsContaining = function(words, x) {
     let arr=[]
-    for(let a=0;a<=words.length-1;a++){
-        for(let b=0;b<=words[a].length-1;b++){
-            if(words[a][b]==x){
-                arr.push(a);
-                break
-            }
+   for(let a=0;a<=words.length-1;a++){
+       let array1=words[a].split("");
+        const found = array1.find((element) => element == x);
+        if(found){
+            arr.push(a);
+            
         }
-    }
-    return arr
+   }
+
+   return arr
 };
