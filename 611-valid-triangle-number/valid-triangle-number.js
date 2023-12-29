@@ -13,6 +13,9 @@ var triangleNumber = function(arr) {
        while(a<b && b<c){
           if(arr[b]+arr[a]>arr[c]){
               count.push(b-a);
+              if(b-a==1){
+                  break;
+              }
               b--;
               a=0;
           }else{
