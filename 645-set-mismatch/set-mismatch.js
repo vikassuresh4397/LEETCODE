@@ -6,43 +6,35 @@ var findErrorNums = function(nums) {
     nums.sort(function(a,b){
         return a-b
     });
+let copy=0,count=1,miss=0,obj={};
+   for(let a=0;a<=nums.length-1;a++){
+       if(nums[a]==nums[a+1]){
+           copy=nums[a]
+       }
+   }
 
-    let obj={};
-    let arr=[];
     for(let a=0;a<=nums.length-1;a++){
         if(obj[nums[a]]==undefined){
-            obj[nums[a]]=1
+           obj[nums[a]]=1 
         }else{
-           arr.push(nums[a]);
-           break
+            obj[nums[a]]++;
         }
     }
 
-   
-let count=0;
-let last=nums[nums.length-1]
-// console.log(nums.length);
-// console.log(last)
-if(nums.length==last+1){
-    arr.push(last+1)
-}else{
-     let x=1;
-    //  console.log(nums)
-     for(let a=0;a<=nums.length-1;a++){
-         
-         if(nums.includes(x)){
-              x++;
-         }
-       else{
-            arr.push(x);
-           
-            break;
-        }
-    }
-}
-   
+     count=1;
 
-  
-    
-    return arr
+      for(let a=0;a<=nums.length-1;a++){
+          if(obj[count]==undefined){
+              miss=count;
+              break;
+          }else{
+              count++;
+          }
+      }
+
+
+
+
+
+   return [copy,miss]
 };
