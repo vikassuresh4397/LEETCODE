@@ -2,33 +2,53 @@
  * @param {string[]} tokens
  * @return {number}
  */
-var evalRPN = function(tokens) {
-    let stack = [];
-    
-    for (let token of tokens) {
-        if (!isNaN(token)) { // If token is a number
-            stack.push(parseInt(token));
-        } else { // If token is an operator
-            let operand2 = stack.pop();
-            let operand1 = stack.pop();
-            
-            switch (token) {
-                case '+':
-                    stack.push(operand1 + operand2);
-                    break;
-                case '-':
-                    stack.push(operand1 - operand2);
-                    break;
-                case '*':
-                    stack.push(operand1 * operand2);
-                    break;
-                case '/':
-                    stack.push(parseInt(operand1 / operand2)); 
-                    // Division truncates towards zero
-                    break;
-            }
+var evalRPN = function(arr) {
+    let stack=[]
+    for(let a=0;a<=arr.length-1;a++){
+        if(stack.length==0||!isNaN(+arr[a])){
+            stack.push(+arr[a])
+            // console.log(arr[a],"YES")
+        }
+        else if(isNaN(+arr[a])){
+        //   console.log(arr[a],"NO");
+          if(arr[a]=="+"){
+              let x=stack[stack.length-2];
+               let y=stack[stack.length-1];
+               let z=x+y;
+               stack.pop();
+               stack.pop();
+              // console.log("z",z);
+               stack.push(Math.floor(z));
+               // console.log("stack",stack)
+          }else  if(arr[a]=="-"){
+              let x=stack[stack.length-2];
+               let y=stack[stack.length-1];
+               let z=x-y;
+               stack.pop();
+               stack.pop();
+               // console.log("z",z);
+               stack.push(Math.floor(z));
+               // console.log("stack",stack)
+          }else if (arr[a] == "/") {
+                let x=stack[stack.length-2];
+               let y=stack[stack.length-1];
+               // let z=x*y;
+               stack.pop();
+               stack.pop();
+    stack.push(parseInt(x/y)); 
+}else  if(arr[a]=="*"){
+              let x=stack[stack.length-2];
+               let y=stack[stack.length-1];
+               let z=x*y;
+               stack.pop();
+               stack.pop();
+            //   console.log("z",z);
+                stack.push(Math.floor(z));
+                // console.log("stack",stack)
+          }
+           
         }
     }
     
-    return stack.pop();
+   return stack[stack.length-1]
 };
