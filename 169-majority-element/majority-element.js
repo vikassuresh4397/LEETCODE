@@ -13,7 +13,7 @@ var majorityElement = function(nums) {
     }
    let max=0,boom; 
     for(let key in obj){
-        if(obj[key]>max){
+        if(obj[key]>max || obj[key]>=(nums.length/2)){
             max=obj[key];
             boom=key
         }
