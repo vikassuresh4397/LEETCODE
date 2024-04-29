@@ -3,16 +3,19 @@
  * @param {number} target
  * @return {number[]}
  */
-var twoSum = function(nums, target) {
-    let sum=0;
-   for(let a=0;a<=nums.length-1;a++){
-       for(let b=a+1;b<=nums.length-1;b++){
- sum=nums[a]+nums[b];
-              if(sum==target){
-                 return [a,b]; 
-              
-          } 
-       }
-   };
+var twoSum = function(arr, target) {
+let a=0,b=a+1;
+    while(a<b && a<=arr.length-2){
+        if(arr[a]+arr[b]==target){
+            return [a,b]
+        }else if(arr[a]+arr[b]!==target){
+            if(b==arr.length-1){
+                a++;
+                b=a+1
+            }else{
+                b++;
+            }
+        }
+    }
     
 };
