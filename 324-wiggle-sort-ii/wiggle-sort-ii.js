@@ -17,7 +17,7 @@ var wiggleSort = function(nums) {
    crr.sort(function(a,b){
        return b-a
    })
-//   console.log(brr,crr);
+
    for(let a=0;a<=brr.length-1;a++){
        grr.push(crr[a]);
         grr.push(brr[a])
