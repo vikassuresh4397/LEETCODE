@@ -4,7 +4,7 @@
  * @return {string}
  */
 var bestHand = function(ranks, suits) {
-    let result=[[5,"Flush"],[3,"Three of a Kind"],[2,"Pair"],[1,"High Card"]];
+  
     let objRank={},arrRank=[],finalRank;   
     for(let a=0;a<=ranks.length-1;a++){
         if(objRank[ranks[a]]==undefined){
@@ -17,13 +17,13 @@ var bestHand = function(ranks, suits) {
     for(let key in objRank){
        arrRank.push([objRank[key],key]) 
     }
-    // console.log(objRank,arrRank)
+   
     arrRank.sort(function(a,b){
         return b[0]-a[0]
     })
     
     finalRank=arrRank[0][0]
-    // console.log(objRank,arrRank,finalRank)
+   
     
      let objSuit={},arrSuit=[],finalSuit;   
     for(let a=0;a<=suits.length-1;a++){
@@ -33,7 +33,7 @@ var bestHand = function(ranks, suits) {
             objSuit[suits[a]]++;
         }
     }
-    // console.log(objSuit)
+    
     for(let key in objSuit){
       arrSuit.push([objSuit[key],key])
     }
@@ -42,12 +42,7 @@ var bestHand = function(ranks, suits) {
     })
     
     finalSuit=arrSuit[0][0]
-    // console.log(objSuit,arrSuit,finalSuit);
-    
-//   "Flush": Five cards of the same suit.
-// "Three of a Kind": Three cards of the same rank.
-// "Pair": Two cards of the same rank.
-// "High Card": Any single card.
+
      
     
     if(finalRank>finalSuit){
