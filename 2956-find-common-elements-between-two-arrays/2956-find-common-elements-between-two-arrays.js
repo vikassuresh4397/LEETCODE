@@ -13,7 +13,7 @@ var findIntersectionValues = function(arr, arr2) {
         }
     }
     
-    // console.log(obj1);
+   
     
       let obj2={};
     for(let a=0;a<=arr2.length-1;a++){
@@ -24,7 +24,7 @@ var findIntersectionValues = function(arr, arr2) {
         }
     }
     
-    // console.log(obj2);
+    
     
    let obj3={};
    for(let a=0;a<=arr.length-1;a++){
@@ -33,13 +33,13 @@ var findIntersectionValues = function(arr, arr2) {
         }
     }
     
-    // console.log(obj3);
+   
     for(let a=0;a<=arr2.length-1;a++){
         if(obj3[arr2[a]]!==undefined){
             obj3[arr2[a]].push(1)
         }
     }
-    // console.log(obj3);
+   
     let common=[]
     for(let key in obj3){
         if(obj3[key].length>=2){
@@ -47,7 +47,7 @@ var findIntersectionValues = function(arr, arr2) {
         }
     }
     
-    // console.log(common);
+  
     let first=0,second=0;
     for(let a=0;a<=common.length-1;a++){
         for(let key in obj1){
@@ -61,6 +61,6 @@ var findIntersectionValues = function(arr, arr2) {
             }
         }
     }
-    // console.log(first,second)
+    
     return [first,second]
 };
