@@ -13,8 +13,8 @@ var fizzBuzz = function(n) {
     }else if(a%5==0){
          arr.push("Buzz")    
     }else {
-     a=""+a
-        arr.push(a)
+   
+        arr.push(a+"")
     }
     }
  
