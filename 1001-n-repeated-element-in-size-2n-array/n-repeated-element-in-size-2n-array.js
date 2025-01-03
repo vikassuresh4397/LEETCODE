@@ -3,7 +3,7 @@
  * @return {number}
  */
 var repeatedNTimes = function(arr) {
-    let n=arr.length/2;
+   
     let obj={};
     for(let a=0;a<=arr.length-1;a++){
         if(obj[arr[a]]==undefined){
@@ -15,7 +15,7 @@ var repeatedNTimes = function(arr) {
     
     
     for(let key in obj){
-        if(obj[key]==n){
+        if(obj[key]==(arr.length/2)){
             return Number(key)
         }
     }
