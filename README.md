@@ -11,6 +11,7 @@ LEETCODE Questions &amp; Answers;
 | [0748-largest-number-at-least-twice-of-others](https://github.com/vikassuresh4397/LEETCODE/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vikassuresh4397/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vikassuresh4397/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Sorting
 |  |
@@ -33,6 +34,7 @@ LEETCODE Questions &amp; Answers;
 | ------- |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vikassuresh4397/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vikassuresh4397/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Simulation
 |  |
@@ -46,4 +48,12 @@ LEETCODE Questions &amp; Answers;
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vikassuresh4397/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
+## String
+|  |
+| ------- |
+| [2163-kth-distinct-string-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [2163-kth-distinct-string-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
 <!---LeetCode Topics End-->
