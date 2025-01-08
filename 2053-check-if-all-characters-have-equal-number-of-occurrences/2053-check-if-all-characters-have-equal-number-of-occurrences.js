@@ -3,7 +3,7 @@
  * @return {boolean}
  */
 var areOccurrencesEqual = function(arr) {
-    let obj={};
+    let obj={},crr=[];
     for(let a=0;a<=arr.length-1;a++){
         if(obj[arr[a]]==undefined){
             obj[arr[a]]=1
@@ -11,7 +11,7 @@ var areOccurrencesEqual = function(arr) {
             obj[arr[a]]++
         }
     }
-    let crr=[];
+    
     if(arr.length==0){
         return false
     }
