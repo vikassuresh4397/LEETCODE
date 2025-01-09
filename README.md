@@ -56,6 +56,7 @@ LEETCODE Questions &amp; Answers;
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vikassuresh4397/LEETCODE/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2226-rings-and-rods](https://github.com/vikassuresh4397/LEETCODE/tree/master/2226-rings-and-rods) |
+| [3636-check-balanced-string](https://github.com/vikassuresh4397/LEETCODE/tree/master/3636-check-balanced-string) |
 ## Counting
 |  |
 | ------- |
