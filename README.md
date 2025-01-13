@@ -11,6 +11,7 @@ LEETCODE Questions &amp; Answers;
 | [0748-largest-number-at-least-twice-of-others](https://github.com/vikassuresh4397/LEETCODE/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vikassuresh4397/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2159-two-out-of-three](https://github.com/vikassuresh4397/LEETCODE/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vikassuresh4397/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Sorting
@@ -35,6 +36,7 @@ LEETCODE Questions &amp; Answers;
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vikassuresh4397/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vikassuresh4397/LEETCODE/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2159-two-out-of-three](https://github.com/vikassuresh4397/LEETCODE/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/vikassuresh4397/LEETCODE/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2226-rings-and-rods](https://github.com/vikassuresh4397/LEETCODE/tree/master/2226-rings-and-rods) |
@@ -65,4 +67,8 @@ LEETCODE Questions &amp; Answers;
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vikassuresh4397/LEETCODE/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/vikassuresh4397/LEETCODE/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2159-two-out-of-three](https://github.com/vikassuresh4397/LEETCODE/tree/master/2159-two-out-of-three) |
 <!---LeetCode Topics End-->
