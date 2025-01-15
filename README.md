@@ -14,6 +14,7 @@ LEETCODE Questions &amp; Answers;
 | [2159-two-out-of-three](https://github.com/vikassuresh4397/LEETCODE/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vikassuresh4397/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2502-sort-the-people](https://github.com/vikassuresh4397/LEETCODE/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
@@ -22,6 +23,7 @@ LEETCODE Questions &amp; Answers;
 | [0748-largest-number-at-least-twice-of-others](https://github.com/vikassuresh4397/LEETCODE/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vikassuresh4397/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vikassuresh4397/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2502-sort-the-people](https://github.com/vikassuresh4397/LEETCODE/tree/master/2502-sort-the-people) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -41,6 +43,7 @@ LEETCODE Questions &amp; Answers;
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/vikassuresh4397/LEETCODE/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2226-rings-and-rods](https://github.com/vikassuresh4397/LEETCODE/tree/master/2226-rings-and-rods) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vikassuresh4397/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2502-sort-the-people](https://github.com/vikassuresh4397/LEETCODE/tree/master/2502-sort-the-people) |
 ## Simulation
 |  |
 | ------- |
@@ -60,6 +63,7 @@ LEETCODE Questions &amp; Answers;
 | [2163-kth-distinct-string-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/vikassuresh4397/LEETCODE/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2226-rings-and-rods](https://github.com/vikassuresh4397/LEETCODE/tree/master/2226-rings-and-rods) |
+| [2502-sort-the-people](https://github.com/vikassuresh4397/LEETCODE/tree/master/2502-sort-the-people) |
 | [3636-check-balanced-string](https://github.com/vikassuresh4397/LEETCODE/tree/master/3636-check-balanced-string) |
 ## Counting
 |  |
