@@ -1,7 +1,3 @@
-/**
- * @param {number[]} nums
- * @return {number[]}
- */
 var frequencySort = function(arr) {
     let obj={};
     for(let a=0;a<=arr.length-1;a++){
