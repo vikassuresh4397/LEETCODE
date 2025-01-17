@@ -15,6 +15,7 @@ LEETCODE Questions &amp; Answers;
 | [2159-two-out-of-three](https://github.com/vikassuresh4397/LEETCODE/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vikassuresh4397/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2312-most-frequent-number-following-key-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2502-sort-the-people](https://github.com/vikassuresh4397/LEETCODE/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
@@ -46,6 +47,7 @@ LEETCODE Questions &amp; Answers;
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/vikassuresh4397/LEETCODE/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2226-rings-and-rods](https://github.com/vikassuresh4397/LEETCODE/tree/master/2226-rings-and-rods) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vikassuresh4397/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2312-most-frequent-number-following-key-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2502-sort-the-people](https://github.com/vikassuresh4397/LEETCODE/tree/master/2502-sort-the-people) |
 ## Simulation
 |  |
@@ -74,6 +76,7 @@ LEETCODE Questions &amp; Answers;
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vikassuresh4397/LEETCODE/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/vikassuresh4397/LEETCODE/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2312-most-frequent-number-following-key-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
