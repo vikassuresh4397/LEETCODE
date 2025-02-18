@@ -17,6 +17,7 @@ LEETCODE Questions &amp; Answers;
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vikassuresh4397/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2502-sort-the-people](https://github.com/vikassuresh4397/LEETCODE/tree/master/2502-sort-the-people) |
+| [2902-max-pair-sum-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2902-max-pair-sum-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -49,6 +50,7 @@ LEETCODE Questions &amp; Answers;
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vikassuresh4397/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2502-sort-the-people](https://github.com/vikassuresh4397/LEETCODE/tree/master/2502-sort-the-people) |
+| [2902-max-pair-sum-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2902-max-pair-sum-in-an-array) |
 ## Simulation
 |  |
 | ------- |
