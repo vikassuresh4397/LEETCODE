@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/max-pair-sum-in-an-array">2902. Max Pair Sum in an Array</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code>. You have to find the <strong>maximum</strong> sum of a pair of numbers from <code>nums</code> such that the <strong>largest digit </strong>in both numbers is equal.</p>
+<h2><a href="https://leetcode.com/problems/max-pair-sum-in-an-array">Max Pair Sum in an Array</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an integer array <code>nums</code>. You have to find the <strong>maximum</strong> sum of a pair of numbers from <code>nums</code> such that the <strong>largest digit </strong>in both numbers is equal.</p>
 
 <p>For example, 2373 is made up of three distinct digits: 2, 3, and 7, where 7 is the largest among them.</p>
 
