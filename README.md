@@ -12,6 +12,7 @@ LEETCODE Questions &amp; Answers;
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vikassuresh4397/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vikassuresh4397/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1848-sum-of-unique-elements](https://github.com/vikassuresh4397/LEETCODE/tree/master/1848-sum-of-unique-elements) |
 | [2159-two-out-of-three](https://github.com/vikassuresh4397/LEETCODE/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vikassuresh4397/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -42,6 +43,7 @@ LEETCODE Questions &amp; Answers;
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vikassuresh4397/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vikassuresh4397/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1848-sum-of-unique-elements](https://github.com/vikassuresh4397/LEETCODE/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vikassuresh4397/LEETCODE/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2159-two-out-of-three](https://github.com/vikassuresh4397/LEETCODE/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -75,6 +77,7 @@ LEETCODE Questions &amp; Answers;
 ## Counting
 |  |
 | ------- |
+| [1848-sum-of-unique-elements](https://github.com/vikassuresh4397/LEETCODE/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vikassuresh4397/LEETCODE/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/vikassuresh4397/LEETCODE/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
