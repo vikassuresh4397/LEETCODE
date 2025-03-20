@@ -18,6 +18,7 @@ LEETCODE Questions &amp; Answers;
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vikassuresh4397/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2502-sort-the-people](https://github.com/vikassuresh4397/LEETCODE/tree/master/2502-sort-the-people) |
+| [2547-odd-string-difference](https://github.com/vikassuresh4397/LEETCODE/tree/master/2547-odd-string-difference) |
 | [2902-max-pair-sum-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2902-max-pair-sum-in-an-array) |
 ## Sorting
 |  |
@@ -52,6 +53,7 @@ LEETCODE Questions &amp; Answers;
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vikassuresh4397/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2502-sort-the-people](https://github.com/vikassuresh4397/LEETCODE/tree/master/2502-sort-the-people) |
+| [2547-odd-string-difference](https://github.com/vikassuresh4397/LEETCODE/tree/master/2547-odd-string-difference) |
 | [2902-max-pair-sum-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2902-max-pair-sum-in-an-array) |
 ## Simulation
 |  |
@@ -73,6 +75,7 @@ LEETCODE Questions &amp; Answers;
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/vikassuresh4397/LEETCODE/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2226-rings-and-rods](https://github.com/vikassuresh4397/LEETCODE/tree/master/2226-rings-and-rods) |
 | [2502-sort-the-people](https://github.com/vikassuresh4397/LEETCODE/tree/master/2502-sort-the-people) |
+| [2547-odd-string-difference](https://github.com/vikassuresh4397/LEETCODE/tree/master/2547-odd-string-difference) |
 | [3636-check-balanced-string](https://github.com/vikassuresh4397/LEETCODE/tree/master/3636-check-balanced-string) |
 ## Counting
 |  |
