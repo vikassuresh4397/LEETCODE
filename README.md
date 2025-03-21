@@ -6,6 +6,7 @@ LEETCODE Questions &amp; Answers;
 ## Array
 |  |
 | ------- |
+| [0500-keyboard-row](https://github.com/vikassuresh4397/LEETCODE/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/vikassuresh4397/LEETCODE/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vikassuresh4397/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/vikassuresh4397/LEETCODE/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -42,6 +43,7 @@ LEETCODE Questions &amp; Answers;
 ## Hash Table
 |  |
 | ------- |
+| [0500-keyboard-row](https://github.com/vikassuresh4397/LEETCODE/tree/master/0500-keyboard-row) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vikassuresh4397/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vikassuresh4397/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -72,6 +74,7 @@ LEETCODE Questions &amp; Answers;
 ## String
 |  |
 | ------- |
+| [0500-keyboard-row](https://github.com/vikassuresh4397/LEETCODE/tree/master/0500-keyboard-row) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vikassuresh4397/LEETCODE/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/vikassuresh4397/LEETCODE/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
