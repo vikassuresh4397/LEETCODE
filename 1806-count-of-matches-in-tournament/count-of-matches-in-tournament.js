@@ -4,7 +4,7 @@
  */
 var numberOfMatches = function(n) {
    let sum=0
-   while(n>1){
+   while(n>=2){
       if(n%2==0){
         n=n/2;
         sum=sum+n
