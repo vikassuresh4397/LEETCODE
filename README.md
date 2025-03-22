@@ -6,6 +6,7 @@ LEETCODE Questions &amp; Answers;
 ## Array
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vikassuresh4397/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0500-keyboard-row](https://github.com/vikassuresh4397/LEETCODE/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/vikassuresh4397/LEETCODE/tree/master/0506-relative-ranks) |
@@ -73,6 +74,7 @@ LEETCODE Questions &amp; Answers;
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vikassuresh4397/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vikassuresh4397/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 ## String
