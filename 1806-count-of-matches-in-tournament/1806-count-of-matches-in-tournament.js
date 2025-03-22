@@ -9,9 +9,9 @@ var numberOfMatches = function(n) {
         n=n/2;
         sum=sum+n
       }else{
-        let x=n
+       sum=sum+(((n-1)/2)+1)
          n=(n-1)/2;
-        sum=sum+(((x-1)/2)+1)
+        // sum=sum+(((x-1)/2)+1)
       }
    }
 
