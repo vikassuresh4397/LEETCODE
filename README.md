@@ -40,6 +40,7 @@ LEETCODE Questions &amp; Answers;
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/vikassuresh4397/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [1806-count-of-matches-in-tournament](https://github.com/vikassuresh4397/LEETCODE/tree/master/1806-count-of-matches-in-tournament) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ LEETCODE Questions &amp; Answers;
 ## Simulation
 |  |
 | ------- |
+| [1806-count-of-matches-in-tournament](https://github.com/vikassuresh4397/LEETCODE/tree/master/1806-count-of-matches-in-tournament) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vikassuresh4397/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Two Pointers
 |  |
