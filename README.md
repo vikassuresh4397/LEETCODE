@@ -83,6 +83,7 @@ LEETCODE Questions &amp; Answers;
 | [2226-rings-and-rods](https://github.com/vikassuresh4397/LEETCODE/tree/master/2226-rings-and-rods) |
 | [2502-sort-the-people](https://github.com/vikassuresh4397/LEETCODE/tree/master/2502-sort-the-people) |
 | [2547-odd-string-difference](https://github.com/vikassuresh4397/LEETCODE/tree/master/2547-odd-string-difference) |
+| [3617-find-the-original-typed-string-i](https://github.com/vikassuresh4397/LEETCODE/tree/master/3617-find-the-original-typed-string-i) |
 | [3636-check-balanced-string](https://github.com/vikassuresh4397/LEETCODE/tree/master/3636-check-balanced-string) |
 ## Counting
 |  |
