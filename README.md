@@ -42,6 +42,7 @@ LEETCODE Questions &amp; Answers;
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/vikassuresh4397/LEETCODE/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vikassuresh4397/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1806-count-of-matches-in-tournament](https://github.com/vikassuresh4397/LEETCODE/tree/master/1806-count-of-matches-in-tournament) |
 ## Hash Table
@@ -104,5 +105,10 @@ LEETCODE Questions &amp; Answers;
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/vikassuresh4397/LEETCODE/tree/master/0231-power-of-two) |
 | [2159-two-out-of-three](https://github.com/vikassuresh4397/LEETCODE/tree/master/2159-two-out-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/vikassuresh4397/LEETCODE/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
