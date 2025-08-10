@@ -67,6 +67,7 @@ LEETCODE Questions &amp; Answers;
 | [2502-sort-the-people](https://github.com/vikassuresh4397/LEETCODE/tree/master/2502-sort-the-people) |
 | [2547-odd-string-difference](https://github.com/vikassuresh4397/LEETCODE/tree/master/2547-odd-string-difference) |
 | [2902-max-pair-sum-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2902-max-pair-sum-in-an-array) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/vikassuresh4397/LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
 | ------- |
@@ -95,6 +96,7 @@ LEETCODE Questions &amp; Answers;
 | [2547-odd-string-difference](https://github.com/vikassuresh4397/LEETCODE/tree/master/2547-odd-string-difference) |
 | [3617-find-the-original-typed-string-i](https://github.com/vikassuresh4397/LEETCODE/tree/master/3617-find-the-original-typed-string-i) |
 | [3636-check-balanced-string](https://github.com/vikassuresh4397/LEETCODE/tree/master/3636-check-balanced-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/vikassuresh4397/LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
@@ -105,6 +107,7 @@ LEETCODE Questions &amp; Answers;
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/vikassuresh4397/LEETCODE/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2312-most-frequent-number-following-key-in-an-array) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/vikassuresh4397/LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
 | ------- |
