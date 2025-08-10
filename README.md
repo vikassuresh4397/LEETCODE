@@ -26,6 +26,7 @@ LEETCODE Questions &amp; Answers;
 | [2502-sort-the-people](https://github.com/vikassuresh4397/LEETCODE/tree/master/2502-sort-the-people) |
 | [2547-odd-string-difference](https://github.com/vikassuresh4397/LEETCODE/tree/master/2547-odd-string-difference) |
 | [2902-max-pair-sum-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2902-max-pair-sum-in-an-array) |
+| [3705-find-the-largest-almost-missing-integer](https://github.com/vikassuresh4397/LEETCODE/tree/master/3705-find-the-largest-almost-missing-integer) |
 ## Sorting
 |  |
 | ------- |
@@ -67,6 +68,7 @@ LEETCODE Questions &amp; Answers;
 | [2502-sort-the-people](https://github.com/vikassuresh4397/LEETCODE/tree/master/2502-sort-the-people) |
 | [2547-odd-string-difference](https://github.com/vikassuresh4397/LEETCODE/tree/master/2547-odd-string-difference) |
 | [2902-max-pair-sum-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2902-max-pair-sum-in-an-array) |
+| [3705-find-the-largest-almost-missing-integer](https://github.com/vikassuresh4397/LEETCODE/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vikassuresh4397/LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
