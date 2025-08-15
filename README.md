@@ -47,6 +47,7 @@ LEETCODE Questions &amp; Answers;
 | ------- |
 | [0231-power-of-two](https://github.com/vikassuresh4397/LEETCODE/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vikassuresh4397/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [1500-count-largest-group](https://github.com/vikassuresh4397/LEETCODE/tree/master/1500-count-largest-group) |
 | [1806-count-of-matches-in-tournament](https://github.com/vikassuresh4397/LEETCODE/tree/master/1806-count-of-matches-in-tournament) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@ LEETCODE Questions &amp; Answers;
 | [1044-find-common-characters](https://github.com/vikassuresh4397/LEETCODE/tree/master/1044-find-common-characters) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/vikassuresh4397/LEETCODE/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vikassuresh4397/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1500-count-largest-group](https://github.com/vikassuresh4397/LEETCODE/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vikassuresh4397/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1848-sum-of-unique-elements](https://github.com/vikassuresh4397/LEETCODE/tree/master/1848-sum-of-unique-elements) |
