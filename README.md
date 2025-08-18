@@ -46,6 +46,7 @@ LEETCODE Questions &amp; Answers;
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/vikassuresh4397/LEETCODE/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/vikassuresh4397/LEETCODE/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vikassuresh4397/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1500-count-largest-group](https://github.com/vikassuresh4397/LEETCODE/tree/master/1500-count-largest-group) |
 | [1806-count-of-matches-in-tournament](https://github.com/vikassuresh4397/LEETCODE/tree/master/1806-count-of-matches-in-tournament) |
@@ -125,6 +126,7 @@ LEETCODE Questions &amp; Answers;
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/vikassuresh4397/LEETCODE/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/vikassuresh4397/LEETCODE/tree/master/0326-power-of-three) |
 ## Divide and Conquer
 |  |
 | ------- |
