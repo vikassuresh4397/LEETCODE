@@ -3,11 +3,20 @@
  * @return {boolean}
  */
 var isPowerOfThree = function(n) {
-    for(let a=0;a<=Math.ceil(n**(1/3));a++){
-        let x=3**a;
-        if(x==n){
-            return true;
-        }
+    let x=n%3, y=n%2;
+      if(n==1){
+        return true
     }
-    return false
+    if(n<=0 || x!=0 || y==0){
+        return false
+    }else{
+        for(let a=0; a<=Math.floor(n**0.5); a++){
+            let j=3**a;
+            if(j==n){
+                return true
+            }
+        }
+        return false
+    }
+    
 };
