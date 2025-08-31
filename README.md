@@ -25,6 +25,7 @@ LEETCODE Questions &amp; Answers;
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vikassuresh4397/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2312-most-frequent-number-following-key-in-an-array) |
+| [2447-merge-similar-items](https://github.com/vikassuresh4397/LEETCODE/tree/master/2447-merge-similar-items) |
 | [2502-sort-the-people](https://github.com/vikassuresh4397/LEETCODE/tree/master/2502-sort-the-people) |
 | [2547-odd-string-difference](https://github.com/vikassuresh4397/LEETCODE/tree/master/2547-odd-string-difference) |
 | [2902-max-pair-sum-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2902-max-pair-sum-in-an-array) |
@@ -39,6 +40,7 @@ LEETCODE Questions &amp; Answers;
 | [1468-check-if-n-and-its-double-exist](https://github.com/vikassuresh4397/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vikassuresh4397/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vikassuresh4397/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2447-merge-similar-items](https://github.com/vikassuresh4397/LEETCODE/tree/master/2447-merge-similar-items) |
 | [2502-sort-the-people](https://github.com/vikassuresh4397/LEETCODE/tree/master/2502-sort-the-people) |
 ## Heap (Priority Queue)
 |  |
@@ -73,6 +75,7 @@ LEETCODE Questions &amp; Answers;
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vikassuresh4397/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2312-most-frequent-number-following-key-in-an-array) |
+| [2447-merge-similar-items](https://github.com/vikassuresh4397/LEETCODE/tree/master/2447-merge-similar-items) |
 | [2502-sort-the-people](https://github.com/vikassuresh4397/LEETCODE/tree/master/2502-sort-the-people) |
 | [2547-odd-string-difference](https://github.com/vikassuresh4397/LEETCODE/tree/master/2547-odd-string-difference) |
 | [2902-max-pair-sum-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2902-max-pair-sum-in-an-array) |
@@ -138,4 +141,8 @@ LEETCODE Questions &amp; Answers;
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/1217-relative-sort-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2447-merge-similar-items](https://github.com/vikassuresh4397/LEETCODE/tree/master/2447-merge-similar-items) |
 <!---LeetCode Topics End-->
