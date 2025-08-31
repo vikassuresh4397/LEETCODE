@@ -28,6 +28,7 @@ LEETCODE Questions &amp; Answers;
 | [2447-merge-similar-items](https://github.com/vikassuresh4397/LEETCODE/tree/master/2447-merge-similar-items) |
 | [2502-sort-the-people](https://github.com/vikassuresh4397/LEETCODE/tree/master/2502-sort-the-people) |
 | [2547-odd-string-difference](https://github.com/vikassuresh4397/LEETCODE/tree/master/2547-odd-string-difference) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/vikassuresh4397/LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2902-max-pair-sum-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2902-max-pair-sum-in-an-array) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/vikassuresh4397/LEETCODE/tree/master/3705-find-the-largest-almost-missing-integer) |
 ## Sorting
@@ -78,6 +79,7 @@ LEETCODE Questions &amp; Answers;
 | [2447-merge-similar-items](https://github.com/vikassuresh4397/LEETCODE/tree/master/2447-merge-similar-items) |
 | [2502-sort-the-people](https://github.com/vikassuresh4397/LEETCODE/tree/master/2502-sort-the-people) |
 | [2547-odd-string-difference](https://github.com/vikassuresh4397/LEETCODE/tree/master/2547-odd-string-difference) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/vikassuresh4397/LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2902-max-pair-sum-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2902-max-pair-sum-in-an-array) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/vikassuresh4397/LEETCODE/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vikassuresh4397/LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -90,6 +92,7 @@ LEETCODE Questions &amp; Answers;
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vikassuresh4397/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/vikassuresh4397/LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
 |  |
 | ------- |
