@@ -55,6 +55,7 @@ LEETCODE Questions &amp; Answers;
 | [0628-maximum-product-of-three-numbers](https://github.com/vikassuresh4397/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1500-count-largest-group](https://github.com/vikassuresh4397/LEETCODE/tree/master/1500-count-largest-group) |
 | [1806-count-of-matches-in-tournament](https://github.com/vikassuresh4397/LEETCODE/tree/master/1806-count-of-matches-in-tournament) |
+| [3830-find-closest-person](https://github.com/vikassuresh4397/LEETCODE/tree/master/3830-find-closest-person) |
 ## Hash Table
 |  |
 | ------- |
