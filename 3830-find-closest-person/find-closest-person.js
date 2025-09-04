@@ -5,7 +5,7 @@
  * @return {number}
  */
 var findClosest = function(x, y, z) {
-    let a,b,c;
+    let a,b;
     if(x>=0 && z>=0){
         a=Math.abs(z-x);
     }else if(x<0 && z<0){
