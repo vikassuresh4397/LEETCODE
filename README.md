@@ -30,6 +30,7 @@ LEETCODE Questions &amp; Answers;
 | [2547-odd-string-difference](https://github.com/vikassuresh4397/LEETCODE/tree/master/2547-odd-string-difference) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/vikassuresh4397/LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2902-max-pair-sum-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2902-max-pair-sum-in-an-array) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/vikassuresh4397/LEETCODE/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/vikassuresh4397/LEETCODE/tree/master/3705-find-the-largest-almost-missing-integer) |
 ## Sorting
 |  |
@@ -82,6 +83,7 @@ LEETCODE Questions &amp; Answers;
 | [2547-odd-string-difference](https://github.com/vikassuresh4397/LEETCODE/tree/master/2547-odd-string-difference) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/vikassuresh4397/LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2902-max-pair-sum-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2902-max-pair-sum-in-an-array) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/vikassuresh4397/LEETCODE/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/vikassuresh4397/LEETCODE/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vikassuresh4397/LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
@@ -125,6 +127,7 @@ LEETCODE Questions &amp; Answers;
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/vikassuresh4397/LEETCODE/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2312-most-frequent-number-following-key-in-an-array) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/vikassuresh4397/LEETCODE/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vikassuresh4397/LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
