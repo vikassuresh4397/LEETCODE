@@ -73,6 +73,7 @@ LEETCODE Questions &amp; Answers;
 | [1848-sum-of-unique-elements](https://github.com/vikassuresh4397/LEETCODE/tree/master/1848-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vikassuresh4397/LEETCODE/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vikassuresh4397/LEETCODE/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/vikassuresh4397/LEETCODE/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2159-two-out-of-three](https://github.com/vikassuresh4397/LEETCODE/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/vikassuresh4397/LEETCODE/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -112,6 +113,7 @@ LEETCODE Questions &amp; Answers;
 | [1297-maximum-number-of-balloons](https://github.com/vikassuresh4397/LEETCODE/tree/master/1297-maximum-number-of-balloons) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vikassuresh4397/LEETCODE/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vikassuresh4397/LEETCODE/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/vikassuresh4397/LEETCODE/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/vikassuresh4397/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/vikassuresh4397/LEETCODE/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2226-rings-and-rods](https://github.com/vikassuresh4397/LEETCODE/tree/master/2226-rings-and-rods) |
